@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Arbués Enrique Pérez Villegas
 
 ## Sobre mí
-Soy un apasionado desarrollador de software y desarrollador web interesado en el campo de la ciberseguridad. Mi objetivo es seguir creciendo como profesional en el mundo de la tecnología y contribuir en proyectos innovadores.
+Soy un apasionado desarrollador de software y desarrollador web interesado en el campo de el Machine Learning y Deep Learning. Mi objetivo es seguir creciendo como profesional en el mundo de la tecnología y contribuir en proyectos innovadores.
 
 ## Información Personal
 

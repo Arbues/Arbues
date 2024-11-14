@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Arbués Enrique Pérez Villegas
 
 ## Sobre mí
-Soy un apasionado desarrollador de software y web interesado en el campo de el Machine Learning y Deep Learning. Mi objetivo es seguir creciendo como profesional en el mundo de la tecnología y contribuir en proyectos innovadores.
+Soy estudiante de la carrera de Ciencias de la Computación en la Universidad Nacional de Ingeniería (UNI), con una sólida formación en inteligencia artificial y experiencia en proyectos de visión por computadora y machine learning. Además, he trabajado en el desarrollo de software altamente escalable, demostrando habilidades en diseño y optimización de sistemas. Me motiva aplicar la IA para resolver problemas complejos y contribuir a proyectos innovadores que generen impacto.
 
 ## Información Personal
 

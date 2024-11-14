@@ -33,29 +33,27 @@ Soy estudiante de la carrera de Ciencias de la Computación en la Universidad Na
 - 🌐 Facebook: https://www.facebook.com/enrique.perezvillegas.5/
 - 📸 Instagram: https://www.instagram.com/kike26010000/
 
-## Educación
-
-- [Certificado de Desarrollo Web]
-  - Institución: CTIC
-  - Año de obtención: 27/01/2023
-  
-- [Certificado de Ciberseguridad Web]
-  - Institución: CTIC
-  - Año de obtención: 16/02/2023
-
 ## Proyectos Destacados
 
-- Interfaz de una calculadora básica con funciones extras
-  - Descripción: Este proyecto consistió en desarrollar una calculadora con funciones adicionales para facilitar el cálculo matemático diario.
-  - Tecnologías utilizadas: HTML, CSS, JavaScript
+- FaceNet (Privado, solicite por correo acceso al repositorio)
+  - Descripción: un servicio de reconocimiento facial utilizando el modelo FaceNet. Incluye scripts para el entrenamiento de modelos, la configuración y ejecución del servicio utilizando Docker y Docker Compose, y el procesamiento de imágenes en tiempo real desde una cámara IP o webcam.
+  - Tecnologías utilizadas: Python, Jupyter Notebook, docker, SQL
+- PAM_proyect (Publico)
+  - Una simple página web que utiliza algoritmos de machine learning para predecir números escritos a mano. Los algoritmos implementados incluyen Regresión Logística Multinomial y Redes Neuronales Simples.
+  - Tecnologías utilizadas: Jupyter Notebook
+- MobileApp_BezierCurve (Publico)
+  - App movil simple en el que crear puntos y a traves de ellos puedes crear la curva de Bezier
+  - Tecnologías utilizadas: Kotlin
 
-## Contribuciones Open Source
+## Proyectos Grupales
 
-- [UNItorch - Red social para profesores] https://github.com/UNItorch
-  - Descripción de la contribución: Colaboré en el desarrollo del backend y la base de datos para esta red social que permite a los profesores compartir y visualizar feedbacks.
+- [sigsoprol-backend](https://github.com/thsergitox/sigsoprol-backend)
+  - Descripción de la contribución: Este es el backend del proyecto SIGSOPROL. Se trata de una API REST que proporciona los endpoints necesarios para gestionar los datos del proyecto.
+  - Tecnologías utilizadas: Java y Docker
   
-- [Expo_integra - Calculadora de integrales] https://github.com/Expo-Integral
-  - Descripción de la contribución: Participé en la creación de una calculadora de integrales definidas utilizando Jupyter Notebook y los métodos de Simpson y Trapecio.
+- [PracticaCalificada1](https://github.com/AMU-Team/PracticaCalificada1)
+  - Descripción de la contribución: El Juego de Carrera de Números consiste en una API del lado del servidor construida con FastAPI y una aplicación del lado del cliente con una interfaz de usuario de consola. Los jugadores se unen al juego, toman turnos adivinando números, y compiten por ser los primeros en llegar a la meta.
+  - Tecnologías utilizadas: Python, Dockerfile, Gherkin
 
 ## Hobbies e Intereses
 
@@ -65,5 +63,4 @@ Soy estudiante de la carrera de Ciencias de la Computación en la Universidad Na
 ## Contacto
 
 📧 Email: arbues.perez.v@uni.pe
-📞 Teléfono: 990720212
 

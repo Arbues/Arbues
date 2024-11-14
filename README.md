@@ -35,13 +35,13 @@ Soy estudiante de la carrera de Ciencias de la Computación en la Universidad Na
 
 ## Proyectos Destacados
 
-- FaceNet (Privado, solicite por correo acceso al repositorio)
+- [FaceNet (Privado, solicite por correo acceso al repositorio)](https://github.com/Arbues/FaceNet)
   - Descripción: un servicio de reconocimiento facial utilizando el modelo FaceNet. Incluye scripts para el entrenamiento de modelos, la configuración y ejecución del servicio utilizando Docker y Docker Compose, y el procesamiento de imágenes en tiempo real desde una cámara IP o webcam.
   - Tecnologías utilizadas: Python, Jupyter Notebook, docker, SQL
-- PAM_proyect (Publico)
+- [PAM_proyect (Publico)](https://github.com/Arbues/PAM_proyect)
   - Una simple página web que utiliza algoritmos de machine learning para predecir números escritos a mano. Los algoritmos implementados incluyen Regresión Logística Multinomial y Redes Neuronales Simples.
   - Tecnologías utilizadas: Jupyter Notebook
-- MobileApp_BezierCurve (Publico)
+- [MobileApp_BezierCurve (Publico)](https://github.com/Arbues/MobileApp_BezierCurve)
   - App movil simple en el que crear puntos y a traves de ellos puedes crear la curva de Bezier
   - Tecnologías utilizadas: Kotlin
 
